@@ -1,2 +1,2 @@
-# chat
+# chats
 mini-whats
